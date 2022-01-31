@@ -1,2 +1,2 @@
 # nft
-nft website
+fetching nfts data
