@@ -1,2 +1,2 @@
-# nft
+# NFTs MINTING
 fetching nfts data
